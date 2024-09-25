@@ -2,15 +2,9 @@
 ![Logo](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/gravity%20logo.png)
 ## Table of Contents
 - [Introduction](#introduction)
-- [Project Phases](#project-phases)
 - [Data Source](#data-source)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
 - [ETL Phase](#etl-phase)
-- [Analysis Phase](#analysis-phase)
-- [Reporting Phase](#reporting-phase)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Welcome to the Gravity Books Sales End-to-End Project repository. This project is an exemplary demonstration of a complete data warehousing solution, encompassing the Extract, Transform, Load (ETL) phase.
