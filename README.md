@@ -58,3 +58,6 @@ The source dataset for this project is the "Gravity Book Sales" database, which 
    * Fact Table Full Load
    
     ![ETL Fact Table Full Load](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/ETL%20Fact%20Table%20Full%20Load.PNG)
+
+
+  For Data Warehouse .Bak [Here]([url](https://drive.google.com/file/d/1UWBgLrByWln3ZXcX046adzUX2cxJRZCZ/view?usp=sharing))
