@@ -23,19 +23,19 @@ The source dataset for this project is the "Gravity Book Sales" database, which 
   
   * Customer Dimension
     
-    ![DDL Customer Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Customer%20Dim.PNG)
+    ![DDL Customer Dim](https://github.com/Waleed-Altaher/Gravity-BookStore-SSIS-integration-project/blob/main/Project%20Screenshots/Customer%20Dim.PNG)
     
   * Book Dimension
     
-    ![DDL Book Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Book%20Dim.PNG)
+    ![DDL Book Dim](https://github.com/Waleed-Altaher/Gravity-BookStore-SSIS-integration-project/blob/main/Project%20Screenshots/Book%20Dim.PNG)
     
    * Shipping Dimension
      
-    ![DDL Shipping Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Shipping%20Dim.PNG)
+    ![DDL Shipping Dim](https://github.com/Waleed-Altaher/Gravity-BookStore-SSIS-integration-project/blob/main/Project%20Screenshots/Shipping%20Dim.PNG)
   
    * Date Dimension
      
-    ![DDL Date Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Date%20Dim.PNG)
+    ![DDL Date Dim](https://github.com/Waleed-Altaher/Gravity-BookStore-SSIS-integration-project/blob/main/Project%20Screenshots/Date%20Dim.PNG)
 
 
 
