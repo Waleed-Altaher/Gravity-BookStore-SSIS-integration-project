@@ -16,9 +16,10 @@ The source dataset for this project is the "Gravity Book Sales" database, which 
 - Microsoft SQL Server.
 - SQL Server Integration Services (SSIS)
 
-
 ## Execution
-   * Schema
+* Whithin SSIS:
+  
+   * DWH Schema (Star Schema)
      ![Gravity Books Sales Schema](https://github.com/Waleed-Altaher/Gravity-BookStore-SSIS-integration-project/blob/main/Project%20Screenshots/Gravity%20Books%20Sales%20Schema.PNG) 
 
    * Customer Dimension
@@ -31,12 +32,11 @@ The source dataset for this project is the "Gravity Book Sales" database, which 
 
    * Shipping Dimension
    
-    ![ETL Shipping Dim](https://github.com/Waleed-Altaher/Gravity-BookStore-SSIS-integration-project/blob/main/Project%20Screenshots/ETL%20Shipping%20Dim.PNG)
+   ![ETL Shipping Dim](https://github.com/Waleed-Altaher/Gravity-BookStore-SSIS-integration-project/blob/main/Project%20Screenshots/ETL%20Shipping%20Dim.PNG)
 
    * Fact Table Full Load
    
     ![ETL Fact Table Full Load](https://github.com/Waleed-Altaher/Gravity-BookStore-SSIS-integration-project/blob/main/Project%20Screenshots/ETL%20Fact%20Table%20Full%20Load.PNG)
-
 
 * DDL statements of table creation and the DWH Schema
   
@@ -58,4 +58,4 @@ The source dataset for this project is the "Gravity Book Sales" database, which 
 
 
 
-  For Data Warehouse .Bak ![Here]([url](https://drive.google.com/file/d/1UWBgLrByWln3ZXcX046adzUX2cxJRZCZ/view?usp=sharing))
+  For Data Warehouse .Bak [Here](https://drive.google.com/file/d/1UWBgLrByWln3ZXcX046adzUX2cxJRZCZ/view?usp=sharing)
