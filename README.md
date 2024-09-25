@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Data Source](#data-source)
 - [Technologies Used](#technologies-used)
-- [ETL Phase](#etl-phase)
+- [Execution](#Execution)
 
 ## Introduction
 Welcome to the Gravity Books Sales End-to-End Project repository. This project is an exemplary demonstration of a complete data warehousing solution, encompassing the Extract, Transform, Load (ETL) phase.
@@ -16,6 +16,8 @@ The source dataset for this project is the "Gravity Book Sales" database, which 
 - Microsoft SQL Server.
 - SQL Server Integration Services (SSIS)
 
+
+## Execution
 
 * DDL statements of table creation and the DWH Schema
   
