@@ -1,5 +1,5 @@
 # Gravity Books Sales SSIS Integration Project
-![Logo](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/gravity%20logo.png)
+![Logo](https://github.com/Waleed-Altaher/Gravity-BookStore-SSIS-integration-project/blob/main/gravity%20logo.png)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Source](#data-source)
